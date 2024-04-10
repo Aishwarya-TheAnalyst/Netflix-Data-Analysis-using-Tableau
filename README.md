@@ -16,7 +16,7 @@ enhance user experiences, and maintain Netflix's position as a leading streaming
  </p>   
  
 
-## Tableau Dashboard 
+## Tableau Dashboard 📈
 ##### [Dashboard Link](https://cdn.worldvectorlogo.com/logos/tableau-software.svg) <a href="https://www.novypro.com/project/netflix-dashboard-26" target="_blank" rel="noreferrer"> </a> 🔗
 
 <p  align="center"><img width="100%" src="https://github.com/Aishwarya-TheAnalyst/Netflix-Data-Analysis-using-Tableau/blob/main/Images/Netflix%20Dashboard.png" /></p>
