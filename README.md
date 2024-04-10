@@ -11,10 +11,10 @@
 enhance user experiences, and maintain Netflix's position as a leading streaming service in the global entertainment industry.
 ## Technologies used ⚙️
 
-* <p> MySQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/> </p>   
-
-* <p> Tableau  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="25" height="25"/> </p> 
-
+ <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/> <br>
+<img src="https://www.svgrepo.com/show/354427/tableau.svg" alt="Tableau" width="85" height="85"/>  
+ </p>   
+ 
 
 ## Tableau Dashboard 
 ##### [Dashboard Link](https://cdn.worldvectorlogo.com/logos/tableau-software.svg) <a href="https://www.novypro.com/project/netflix-dashboard-26" target="_blank" rel="noreferrer"> </a> 🔗
