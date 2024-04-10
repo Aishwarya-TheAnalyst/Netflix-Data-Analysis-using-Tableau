@@ -27,8 +27,8 @@ enhance user experiences, and maintain Netflix's position as a leading streaming
 2. Dramas emerge as the most popular genre on Netflix
 3. The United States stands out as the primary hub for Netflix content, underscoring its pivotal role in the platform's global strategy.4
 4. Dramas emerge as the top genre on Netflix
-5. The dataset indicates a consistent uptrend in the number of titles available on Netflix over time
-6. The dataset indicates a consistent increase in the number of titles available on Netflix over time
+5. The dataset indicates a consistent increase in the number of titles available on Netflix over time
+
 
   
 ## Project References: 🔗
